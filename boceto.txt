@@ -1,0 +1,7 @@
+	
+    funciones principales para crear el grafo:
+    •	Crear un grafo.
+	•	Agregar un nodo (si no existe ya).
+	•	Agregar una arista entre dos nodos.
+	•	Buscar el índice de un nodo por su nombre.
+	•	Liberar memoria del grafo.
